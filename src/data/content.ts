@@ -63,34 +63,27 @@ export const portfolioItems = [
     },
     {
         id: 8,
-        title: "Autocuidado Estético",
-        category: "Instagram",
-        imageUrl: "/portfolio/Post Instagram checklist autocuidado estética simples bege e marrom (1).png",
-        description: "Checklist interativo para nicho de beleza."
-    },
-    {
-        id: 9,
         title: "Radiestesia",
         category: "Instagram",
         imageUrl: "/portfolio/Radiestesia.png",
         description: "Social media para terapias integrativas."
     },
     {
-        id: 10,
+        id: 9,
         title: "Feedback - Dra. Indaia",
         category: "Instagram",
         imageUrl: "/portfolio/foto 2 - Feedback - Dra. Indaia Lorena Andrade.png",
         description: "Feedback de cliente."
     },
     {
-        id: 11,
+        id: 10,
         title: "Terapia Integrativa",
         category: "Instagram",
         imageUrl: "/portfolio/foto 1.png",
         description: "Design para área de saúde."
     },
     {
-        id: 12,
+        id: 11,
         title: "Lumax Imóveis",
         category: "Instagram",
         imageUrl: "/portfolio/foto 3 - Lumax Verificar Depois.jpg",
